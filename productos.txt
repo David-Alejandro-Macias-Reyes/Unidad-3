@@ -1,0 +1,6 @@
+1|Pantalon Azul|150|Ropa Casual
+2|Camisa|175|Ropa Casual
+3|Tenis Deportivos|899|Ropa Deportiva
+4|Pantalon Baggy|640|Ropa Casual
+5|Sudadera Rosa|780|Ropa Deportiva
+6|Tenis de Boxeo|1799|Ropa Deportiva
