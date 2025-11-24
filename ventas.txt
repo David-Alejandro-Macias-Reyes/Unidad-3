@@ -1,0 +1,5 @@
+Tenis Deportivos|899.0|2|1798.0
+Tenis de Boxeo|1799.0|3|5397.0
+Pantalon Baggy|640.0|4|2560.0
+Sudadera Rosa|780.0|1|780.0
+Pantalon Azul|150.0|3|450.0
